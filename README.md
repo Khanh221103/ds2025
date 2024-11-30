@@ -11,4 +11,5 @@ Student Info
 
 * Student Name: Phung Nam Khanh
 * Student ID: BA12-092
-* Student Group ID: Not-for-now
+* Student Group ID: 12
+
